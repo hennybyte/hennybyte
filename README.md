@@ -10,7 +10,7 @@ I'm a data enthusiast who enjoys working with data from start to finish — clea
 ![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat&logo=google&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 
-
+👉 Explore my projects in the [code-brew](https://github.com/hennybyte/code-brew) repository
 <!--
 **hennybyte/hennybyte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
